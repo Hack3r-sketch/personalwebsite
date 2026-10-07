@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman';
+    background: rgb(255, 255, 255);
+    color: black;
+}
+p{
+    color: darkmagenta;
+}
+img {
+    width: 200px;
+    
+}
+.flex-container{
+    display: flex;
+    align-items: left;
+    gap: 15px;
+}
+.New{margin-left: 30px;}
+button{margin-left: 250px;
+    background-color: rgb(199, 199, 196);
+}
+.btn{
+    color: rgb(76, 0, 15);
+}
+.Second{margin-left: 10px;}
